@@ -1,0 +1,1107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<basedatos>
+    <empresa>
+        <nombre>Abalance Auditores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>A</comienza>
+        <contacto class="uno">Caridad Bas Pérez</contacto>
+        <direccion>Calle Canillas 93,1ºe</direccion>
+        <zip>28002</zip>
+        <localidad>Madrid</localidad>
+        <cif>B84318310</cif>
+        <email>cbas@abalance.net</email>
+        <paginaweb>http://www.abalance.net</paginaweb>
+        <telefono>+34 914156159</telefono>
+        <fax>+34 915196581</fax>
+    </empresa>
+    <empresa>
+        <nombre>Actuarios de Seguros & Economistas Auditores, SL</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>0</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>A</comienza>
+        <contacto>Eugenio Prieto Perez</contacto>
+        <direccion>Calle Embajadores 110 1ºD</direccion>
+        <zip>28053</zip>
+        <localidad>Madrid</localidad>
+        <cif>B28974574</cif>
+        <email>eprietop@terra.es</email>
+        <paginaweb> </paginaweb>
+        <telefono>+34 915170902</telefono>
+        <fax>+34 915170902</fax>
+    </empresa>
+    <empresa>
+        <nombre>Advance Audit</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>0</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>0</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>A</comienza>
+        <contacto>Ángeles Guerra Viniegra</contacto>
+        <direccion>Calle Magallanes 14,1ºc</direccion>
+        <zip>28015</zip>
+        <localidad>Madrid</localidad>
+        <cif>B83373621</cif>
+        <email>info@advanceaudit.com</email>
+        <paginaweb>http://www.advanceaudit.com</paginaweb>
+        <telefono>+34 915915683</telefono>
+        <fax>+34 914489011</fax>
+    </empresa>
+    <empresa>
+        <nombre>AEA Auditores de Empresas Asociados</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>A</comienza>
+        <contacto>Luis Felipe Suárez</contacto>
+        <direccion>General Moscardó</direccion>
+        <zip>28020</zip>
+        <localidad>Madrid</localidad>
+        <cif>B78016011</cif>
+        <email>so@auditoria.net</email>
+        <paginaweb>http://www.auditoria.net</paginaweb>
+        <telefono>+34 915333961</telefono>
+        <fax>+34 915333258</fax>
+    </empresa>
+    <empresa>
+        <nombre>Afisa Auditores & Asesores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>A</comienza>
+        <contacto>Jesús Ludueña Martín</contacto>
+        <direccion>Calle Tres 50</direccion>
+        <zip>28280</zip>
+        <localidad>El Escorial, Madrid</localidad>
+        <cif>B81061087</cif>
+        <email>afisaauditores@telefonica.net</email>
+        <paginaweb> </paginaweb>
+        <telefono>+34 918533851</telefono>
+        <fax>+34 918533851</fax>
+    </empresa>
+    <empresa>
+        <nombre>Agustí & Sánchez Auditores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>A</comienza>
+        <contacto>Javier Sánchez Serrano</contacto>
+        <direccion>Calle Duque de Sesto 17,5ºd</direccion>
+        <zip>28009</zip>
+        <localidad>Madrid</localidad>
+        <cif>B82469693</cif>
+        <email>jsanchez@asauditores.com</email>
+        <paginaweb>http://www.asauditores.com</paginaweb>
+        <telefono>+34 915756391</telefono>
+        <fax>+34 914311641</fax>
+    </empresa>
+    <empresa>
+        <nombre>Alfa Solutions</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>A</comienza>
+        <contacto>José Luis Martínez Miranda</contacto>
+        <direccion>Calle Padre Damián 5,1ºizquierda</direccion>
+        <zip>28036</zip>
+        <localidad>Madrid</localidad>
+        <cif>B83444166</cif>
+        <email>alfasolutions@alfasolutions.es</email>
+        <paginaweb>http://www.alfasolutions.es</paginaweb>
+        <telefono>+34 914585786</telefono>
+        <fax>+34 914575023</fax>
+    </empresa>
+    <empresa>
+        <nombre>Asesores Generales</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>0</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>0</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>A</comienza>
+        <contacto>Leonor Arizmendi</contacto>
+        <direccion>Paseo Eduardo Dato </direccion>
+        <zip>28010</zip>
+        <localidad>Madrid</localidad>
+        <cif>B78954534</cif>
+        <email>asesores@asesoresgenerales.com</email>
+        <paginaweb>http://www.asesoresgenerales.com</paginaweb>
+        <telefono>+34 913190365</telefono>
+        <fax>+34 913914514</fax>
+    </empresa>
+    <empresa>
+        <nombre>Audalia Auditores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>A</comienza>
+        <contacto>Santiago Alió Sanjuan</contacto>
+        <direccion>Calle José Lázaro Galdiano 4</direccion>
+        <zip>28036</zip>
+        <localidad>Madrid</localidad>
+        <cif>B78048097</cif>
+        <email>sas@audalia.com</email>
+        <paginaweb>http://www.audalia.com</paginaweb>
+        <telefono>+34 914430000</telefono>
+        <fax>+34 914430001</fax>
+    </empresa>
+    <empresa>
+        <nombre>Audilogística</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>0</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>A</comienza>
+        <contacto>Isidro Esquiroz </contacto>
+        <direccion>Calle Hermosilla 60,1ºizqd</direccion>
+        <zip>28001</zip>
+        <localidad>Madrid</localidad>
+        <cif>B45533817</cif>
+        <email>audilogistica@audilogistica.e.telefonica.net</email>
+        <paginaweb> </paginaweb>
+        <telefono>+34 915777303</telefono>
+        <fax>+34 915777304</fax>
+    </empresa>
+    <empresa>
+        <nombre>Audit-3</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>0</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>0</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>A</comienza>
+        <contacto>Isabel Nericaechevarría</contacto>
+        <direccion>Calle Génova 10</direccion>
+        <zip>28004</zip>
+        <localidad>Madrid</localidad>
+        <cif>A79325429</cif>
+        <email>audit3@audit.e.telefonica.net</email>
+        <paginaweb> </paginaweb>
+        <telefono>+34 913191701</telefono>
+        <fax>+34 913191842</fax>
+    </empresa>
+    <empresa>
+        <nombre>Auditora Peninsular s.l.</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>0</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>A</comienza>
+        <contacto>Juan López Tapias</contacto>
+        <direccion>Calle Chapinería 6</direccion>
+        <zip>28035</zip>
+        <localidad>Madrid</localidad>
+        <cif>B36708709</cif>
+        <email>auditorapeninsular@hotmail.com</email>
+        <paginaweb> </paginaweb>
+        <telefono>+34 607621592</telefono>
+        <fax>+34 913990641</fax>
+    </empresa>
+    <empresa>
+        <nombre>Auditores & Censores Asociados</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>A</comienza>
+        <contacto>José Ramón Blasco Lozano</contacto>
+        <direccion>Avenida del Valle 13,109</direccion>
+        <zip>28003</zip>
+        <localidad>Madrid</localidad>
+        <cif>B79492955</cif>
+        <email>jrb@audicensor.com</email>
+        <paginaweb>http://www.audicensor.com</paginaweb>
+        <telefono>+34 915337509</telefono>
+        <fax>+34 915543320</fax>
+    </empresa>
+    <empresa>
+        <nombre>Audyse</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0 </entcredito>
+        <entseguro>0 </entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>A</comienza>
+        <contacto>Francisco J. Díez</contacto>
+        <direccion>Calle Teniente Ruíz 5, 2ºa</direccion>
+        <zip>28005</zip>
+        <localidad>Alcalá de Henares, Madrid</localidad>
+        <cif>B83792911</cif>
+        <email>audyse@audyse.net</email>
+        <paginaweb>http://www.audyse.es</paginaweb>
+        <telefono>+34 918895586</telefono>
+        <fax>+34 918770105</fax>
+    </empresa>
+    <empresa>
+        <nombre>Bermúdez & Trujillano Auditores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>0</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>B</comienza>
+        <contacto>Jorge Trujillano</contacto>
+        <direccion>Paseo del Pintor Rosales 42</direccion>
+        <zip>28008</zip>
+        <localidad>Madrid</localidad>
+        <cif>B80806193</cif>
+        <email>byt@bytauditores.com</email>
+        <paginaweb>http://www.bytauditores.com</paginaweb>
+        <telefono>+34 915597500</telefono>
+        <fax>+34 915419922</fax>
+    </empresa>
+    <empresa>
+        <nombre>BGT Auditores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>B</comienza>
+        <contacto>Miguel Ángel Gutiérrez</contacto>
+        <direccion>Calle Raimundo Fernández de Villaverde 45,4ºa</direccion>
+        <zip>28003</zip>
+        <localidad>Madrid</localidad>
+        <cif>B80641688</cif>
+        <email>bgtauditores@hedrens.es</email>
+        <paginaweb> </paginaweb>
+        <telefono>+34 915548261</telefono>
+        <fax>+34 915534693</fax>
+    </empresa>
+    <empresa>
+        <nombre>Canal Iranzo & Asociados</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>C</comienza>
+        <contacto>Alejandro Canal López</contacto>
+        <direccion>Calle Princesa 25 planta 3</direccion>
+        <zip>28008</zip>
+        <localidad>Madrid</localidad>
+        <cif>B80529902</cif>
+        <email>canaliranzo@canaliranzo.com</email>
+        <paginaweb>http://www.canaliranzo.com</paginaweb>
+        <telefono>+34 915590892</telefono>
+        <fax>+34 915590917</fax>
+    </empresa>
+    <empresa>
+        <nombre>Capital Auditors and Consultants s.l.</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>C</comienza>
+        <contacto>Javier Sánchez Serrano</contacto>
+        <direccion>Calle Goya 41, 5º d</direccion>
+        <zip>28001</zip>
+        <localidad>Madrid</localidad>
+        <cif>B85296754</cif>
+        <email>jsanchez@capitalauditors.com</email>
+        <paginaweb>http://www.capitalauditors.com</paginaweb>
+        <telefono>+34 914323772</telefono>
+        <fax>+34 914311641</fax>
+    </empresa>
+    <empresa>
+        <nombre>Caudisa MGC Compañía de Auditores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>0</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>C</comienza>
+        <contacto>Gloria Orejas </contacto>
+        <direccion>Calle Velázquez 59,4º centro izquierda</direccion>
+        <zip>28001</zip>
+        <localidad>Madrid</localidad>
+        <cif>B78693272</cif>
+        <email>goreja@caudisa.com</email>
+        <paginaweb>http://www.caudisa.com</paginaweb>
+        <telefono>+34 914317119</telefono>
+        <fax>+34 915775359</fax>
+    </empresa>
+    <empresa>
+        <nombre>Confeauditores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>C</comienza>
+        <contacto>Juan Luis Marchini</contacto>
+        <direccion>Avenida del Manzanares 204</direccion>
+        <zip>28026</zip>
+        <localidad>Madrid</localidad>
+        <cif>B80580798</cif>
+        <email>info@confeauditores</email>
+        <paginaweb>http://www.confeauditores.com</paginaweb>
+        <telefono>+34 915484500</telefono>
+        <fax>+34 915483027</fax>
+    </empresa>
+    <empresa>
+        <nombre>Espaudit Gabinete de Auditoría</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>E</comienza>
+        <contacto>Pedros Oliveros </contacto>
+        <direccion>Calle General Castaños 13, 1ºdcha</direccion>
+        <zip>28004</zip>
+        <localidad>Madrid</localidad>
+        <cif>A28860591</cif>
+        <email>madrid@espaudit.com</email>
+        <paginaweb>http://www.espaudit.com</paginaweb>
+        <telefono>+34 913087039</telefono>
+        <fax>+34 913084578</fax>
+    </empresa>
+    <empresa>
+        <nombre>Eurorevision s.l.</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>0</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>0</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>E</comienza>
+        <contacto>Ramiyar Panday Panday</contacto>
+        <direccion>Calle Pez Volador 32 b</direccion>
+        <zip>28007</zip>
+        <localidad>Madrid</localidad>
+        <cif>B79535480</cif>
+        <email>rami@eurorevision.com</email>
+        <paginaweb>http://www.eurorevision.com</paginaweb>
+        <telefono>+34 915046677</telefono>
+        <fax>+34 915045848</fax>
+    </empresa>
+    <empresa>
+        <nombre>Ficesa Treuhand </nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>0</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>F</comienza>
+        <contacto>Carlos Frübeck Olmedo </contacto>
+        <direccion>Calle Marqués de Riscal 11,5º planta</direccion>
+        <zip>28010</zip>
+        <localidad>Madrid</localidad>
+        <cif>A28741114</cif>
+        <email>madrid@ficesa.es</email>
+        <paginaweb>http://www.ficesa.es</paginaweb>
+        <telefono>+34 917004350</telefono>
+        <fax>+34 913102882</fax>
+    </empresa>
+    <empresa>
+        <nombre>Gafisa Recursos & Consultoría s.l.</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>G</comienza>
+        <contacto>Julián Sauca Fernández</contacto>
+        <direccion>Avd. Donostiarra 14 bajo izquierda</direccion>
+        <zip>28027</zip>
+        <localidad>Madrid</localidad>
+        <cif>B81449134</cif>
+        <email>jsauca@gafisa.com</email>
+        <paginaweb>http://www.gafisa.com</paginaweb>
+        <telefono>+34 914040466</telefono>
+        <fax>+34 913266624</fax>
+    </empresa>
+    <empresa>
+        <nombre>Gesaudit</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>G</comienza>
+        <contacto>Carmen Castro Rojas</contacto>
+        <direccion>Avd. Reina Victoria 14</direccion>
+        <zip>28003</zip>
+        <localidad>Madrid</localidad>
+        <cif>A78569357</cif>
+        <email>gestaudit@telefonica.net</email>
+        <paginaweb> </paginaweb>
+        <telefono>+34 915331805</telefono>
+        <fax>+34 915330942</fax>
+    </empresa>
+    <empresa>
+        <nombre>Gestión Continuada Asesores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>G</comienza>
+        <contacto>Ángel López</contacto>
+        <direccion>Avenida Galaxia 28</direccion>
+        <zip>28023</zip>
+        <localidad>Madrid</localidad>
+        <cif>B80576937</cif>
+        <email>gcasesores@vodafone.es</email>
+        <paginaweb> </paginaweb>
+        <telefono>+34 913079111</telefono>
+        <fax>+34 913570754</fax>
+    </empresa>
+    <empresa>
+        <nombre>Gramaudit s.l.</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>G</comienza>
+        <contacto>Carlos Izquierdo Insúa</contacto>
+        <direccion>Calle Hilarión Eslava 62 local</direccion>
+        <zip>28015</zip>
+        <localidad>Madrid</localidad>
+        <cif>B78970613</cif>
+        <email>gramaudit@gramaudit.com</email>
+        <paginaweb>http://www.gramaudit.com</paginaweb>
+        <telefono>+34 915442772</telefono>
+        <fax>+34 915490279</fax>
+    </empresa>
+    <empresa>
+        <nombre>GRW Law Auditores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>G</comienza>
+        <contacto>Mónica Castaño</contacto>
+        <direccion>Calle Capitán Haya 3,2ºizqd</direccion>
+        <zip>28020</zip>
+        <localidad>Madrid</localidad>
+        <cif>B13014381</cif>
+        <email>monica@grlaw.es</email>
+        <paginaweb>http://www.grlaw.es</paginaweb>
+        <telefono>+34 915710001</telefono>
+        <fax>+34 915713131</fax>
+    </empresa>
+    <empresa>
+        <nombre>Henilaes Nexia Auditores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>H</comienza>
+        <contacto>Ignacio Herrero</contacto>
+        <direccion>Calle José Ortega & Gasset 22,4ºa</direccion>
+        <zip>28006</zip>
+        <localidad>Madrid</localidad>
+        <cif>B78448164</cif>
+        <email>heni@laesnexia.com</email>
+        <paginaweb>http://www.laesnexia.com</paginaweb>
+        <telefono>+34 629201085</telefono>
+        <fax>+34 915777712</fax>
+    </empresa>
+    <empresa>
+        <nombre>Hernáez & Asociados Auditores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>H</comienza>
+        <contacto>Francisco J. Díez</contacto>
+        <direccion>Calle Teniente Ruíz 5, 2ºa</direccion>
+        <zip>28005</zip>
+        <localidad>Alcalá de Henares, Madrid</localidad>
+        <cif>B79473492</cif>
+        <email>hernaeza@telefonica.net</email>
+        <paginaweb> </paginaweb>
+        <telefono>+34 918800618</telefono>
+        <fax>+34 918770105</fax>
+    </empresa>
+    <empresa>
+        <nombre>La Blunda Auditores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>L</comienza>
+        <contacto>Carlos La Blunda </contacto>
+        <direccion>Calle Madrid 12,2ºf</direccion>
+        <zip>28901</zip>
+        <localidad>Madrid</localidad>
+        <cif>B82950296</cif>
+        <email>elena@monroyconsultores</email>
+        <paginaweb>http://www.monroyconsultores.com</paginaweb>
+        <telefono>+34 916837046</telefono>
+        <fax>+34 916835834</fax>
+    </empresa>
+    <empresa>
+        <nombre>Lavinia Auditoría & Consultoría s.l.</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>L</comienza>
+        <contacto>Luis F. Sáez de Galdeano</contacto>
+        <direccion>Calle Infanta Mercedes 41, 1ºb</direccion>
+        <zip>28020</zip>
+        <localidad>Madrid</localidad>
+        <cif>B59554063</cif>
+        <email>lavinia@laviniaudit.com</email>
+        <paginaweb>http://www.laviniaudit.com</paginaweb>
+        <telefono>+34 914490427</telefono>
+        <fax>+34 914490429</fax>
+    </empresa>
+    <empresa>
+        <nombre>Lexdeuve Asesores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>L</comienza>
+        <contacto>Ignacio Peña</contacto>
+        <direccion>Calle Azcona 36</direccion>
+        <zip>28028</zip>
+        <localidad>Madrid</localidad>
+        <cif>B85409464</cif>
+        <email>info@asesormadrid.com</email>
+        <paginaweb>http://www.asesormadrid.com</paginaweb>
+        <telefono>+34 913612569</telefono>
+        <fax>+34 913612568</fax>
+    </empresa>
+    <empresa>
+        <nombre>MC Economistas Auditores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>M</comienza>
+        <contacto>Javier Martí Corral</contacto>
+        <direccion>Calle Serrano 219 31c</direccion>
+        <zip>28008</zip>
+        <localidad>Madrid</localidad>
+        <cif>B81561565</cif>
+        <email>info@mceconomistas.com</email>
+        <paginaweb>http://www.mceconomistas.com</paginaweb>
+        <telefono>+34 914578137</telefono>
+        <fax>+34 914578167</fax>
+    </empresa>
+    <empresa>
+        <nombre>MGT 10A Audit</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>0</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>M</comienza>
+        <contacto>Emilio Barroso González</contacto>
+        <direccion>Calle Menorca 49 bajo e</direccion>
+        <zip>28009</zip>
+        <localidad>Madrid</localidad>
+        <cif>B83441949</cif>
+        <email>mgtauditores@gmail.com</email>
+        <paginaweb>http://www.oneplanconsulting.com</paginaweb>
+        <telefono>+34 915570675</telefono>
+        <fax>+34 915570675</fax>
+    </empresa>
+    <empresa>
+        <nombre>Morison AC, s.l.</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>M</comienza>
+        <contacto>Ramón Catalán Armengol</contacto>
+        <direccion>Calle General Martínez Campos 15 3º</direccion>
+        <zip>28010</zip>
+        <localidad>Madrid</localidad>
+        <cif>B82066556</cif>
+        <email>madrid@morisonacpm.com</email>
+        <paginaweb>http://www.morisonacpm.com</paginaweb>
+        <telefono>+34 914486600</telefono>
+        <fax>+34 914487230</fax>
+    </empresa>
+    <empresa>
+        <nombre>Olszewski Auditores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>O</comienza>
+        <contacto>Rocío Díez Andino</contacto>
+        <direccion>Calle Núñez de Balboa 116,3º</direccion>
+        <zip>28006</zip>
+        <localidad>Madrid</localidad>
+        <cif>B79544649</cif>
+        <email>rocio.diez-andino@olszewski.es</email>
+        <paginaweb>http://www.olszewski.es</paginaweb>
+        <telefono>+34 915158385</telefono>
+        <fax>+34 915158944</fax>
+    </empresa>
+    <empresa>
+        <nombre>Pame Auditores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>0</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>0</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>P</comienza>
+        <contacto>Ramón Abella Suárez</contacto>
+        <direccion>Calle Evaristo San Miguel 2</direccion>
+        <zip>28008</zip>
+        <localidad>Madrid</localidad>
+        <cif>B81794182</cif>
+        <email>abellaclt@rea.economistas.org</email>
+        <paginaweb>No tiene </paginaweb>
+        <telefono>+34 915478517</telefono>
+        <fax>+34 915421585</fax>
+    </empresa>
+    <empresa>
+        <nombre>Persevia Auditora de Cuentas, s.l.</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>P</comienza>
+        <contacto>Eladio Acevedo </contacto>
+        <direccion>Calle Fernando El Católico 17</direccion>
+        <zip>28015</zip>
+        <localidad>Madrid</localidad>
+        <cif>B82471210</cif>
+        <email>persevia@perseviaauditores.com</email>
+        <paginaweb>http://www.perseviaauditores.com</paginaweb>
+        <telefono>+34 915912581</telefono>
+        <fax>+34 915913490</fax>
+    </empresa>
+    <empresa>
+        <nombre>Plan Audit</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>P</comienza>
+        <contacto>Antonio Peidro</contacto>
+        <direccion>Calle del Tubo 8, 2ºf</direccion>
+        <zip>28223</zip>
+        <localidad>Pozuelo de Alarcón, Madrid</localidad>
+        <cif>B80889199</cif>
+        <email>planaudit@telefonica.net</email>
+        <paginaweb> </paginaweb>
+        <telefono>+34 913522250</telefono>
+        <fax>+34 913522250</fax>
+    </empresa>
+    <empresa>
+        <nombre>Rivero & Asociados</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>R</comienza>
+        <contacto>José Marïa Rivero Alvárez</contacto>
+        <direccion>Calle Martín Pescador</direccion>
+        <zip>28023</zip>
+        <localidad>Madrid</localidad>
+        <cif>B77453536</cif>
+        <email>administracionmad@riveroauditores.com</email>
+        <paginaweb>http://www.riveroauditores.com</paginaweb>
+        <telefono>+34 913076890</telefono>
+        <fax>+34 913076984</fax>
+    </empresa>
+    <empresa>
+        <nombre>SM Auditores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>S</comienza>
+        <contacto>Julio Santo Sánchez</contacto>
+        <direccion>Calle Hoces de la Hermida 9ºa</direccion>
+        <zip>28023</zip>
+        <localidad>Madrid</localidad>
+        <cif>A79148011</cif>
+        <email>smauditores@terra.es</email>
+        <paginaweb>http://www.smauditores.com</paginaweb>
+        <telefono>+34 629755871</telefono>
+        <fax>+34 913573086</fax>
+    </empresa>
+    <empresa>
+        <nombre>Sociedad General de Auditores</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0 </entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>0</valoracciones>
+        <aumentocapital>1 </aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>S</comienza>
+        <contacto>Mar Mediano</contacto>
+        <direccion>Calle Pinar de Doña Consuelo 11</direccion>
+        <zip>28220</zip>
+        <localidad>Majadahonda, Madrid</localidad>
+        <cif>A82829813</cif>
+        <email>sgac@auditores-consultores.com</email>
+        <paginaweb>http://www.sgac.es</paginaweb>
+        <telefono>+34 915340103</telefono>
+        <fax>+34 916344594</fax>
+    </empresa>
+    <empresa>
+        <nombre>UHY-FAY AND COU Auditores Consultores, s.l.</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>1</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>U</comienza>
+        <contacto>Julián Sauca Fernández</contacto>
+        <direccion>Calle Velázquez 70,2º izquierda</direccion>
+        <zip>28001</zip>
+        <localidad>Madrid</localidad>
+        <cif>B82445826</cif>
+        <email>jsaucaf@uhy-fay.com</email>
+        <paginaweb>http://www.uhy-fay.com</paginaweb>
+        <telefono>+34 914260723</telefono>
+        <fax>+34 914260724</fax>
+    </empresa>
+    <empresa>
+        <nombre>Unión de Auditores Europeos</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>0</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>0</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>U</comienza>
+        <contacto>José Manuel Toro </contacto>
+        <direccion>Paseo de la Castellana 175</direccion>
+        <zip>28046</zip>
+        <localidad>Madrid</localidad>
+        <cif>B81574022</cif>
+        <email>jmtoro@telefonica.net</email>
+        <paginaweb> </paginaweb>
+        <telefono>+34 629108243</telefono>
+        <fax>+34 915713461</fax>
+    </empresa>
+    <empresa>
+        <nombre>Valldaura & Asociados</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>1</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>0</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>1</arbitraje>
+        <comienza>V</comienza>
+        <contacto>Manuel Crespi de Valdaura</contacto>
+        <direccion>Calle Fernán González 28</direccion>
+        <zip>28009</zip>
+        <localidad>Madrid</localidad>
+        <cif>B79453528</cif>
+        <email>manuelcrespi@hotmail.com</email>
+        <paginaweb> </paginaweb>
+        <telefono>+34 915755911</telefono>
+        <fax>+34 915760889</fax>
+    </empresa>
+    <empresa>
+        <nombre>Vals & Time s.l.</nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>1</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>1</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>V</comienza>
+        <contacto>Concha Valdelvira Sáiz</contacto>
+        <direccion>Calle Fernando El Santo 25, 4ºizqd</direccion>
+        <zip>28010</zip>
+        <localidad>Madrid</localidad>
+        <cif>B82369513</cif>
+        <email>cvaldelvira@valstime.com</email>
+        <paginaweb>http://www.valstime.com</paginaweb>
+        <telefono>+34 913191281</telefono>
+        <fax>+34 913190634</fax>
+    </empresa>
+    <empresa>
+        <nombre>Vilemar Asesores </nombre>
+        <estadosfinancieros>1</estadosfinancieros>
+        <revisioneslimitadas>1</revisioneslimitadas>
+        <entcredito>0</entcredito>
+        <entseguro>0</entseguro>
+        <derechosuscripcion>1</derechosuscripcion>
+        <agenciavalores>0</agenciavalores>
+        <cuentasanuales>0</cuentasanuales>
+        <valoracciones>1</valoracciones>
+        <aumentocapital>1</aumentocapital>
+        <arbitraje>0</arbitraje>
+        <comienza>V</comienza>
+        <contacto>Gonzalo López García</contacto>
+        <direccion>Paseo Rincones 18</direccion>
+        <zip>28470</zip>
+        <localidad>Cercedilla, Madrid</localidad>
+        <cif>B05422246</cif>
+        <email>gonzalp@vilemarasesores.com</email>
+        <paginaweb>http://www.vilemarasesores.com</paginaweb>
+        <telefono>+34 918521410</telefono>
+        <fax>+34 918521765</fax>
+    </empresa>
+</basedatos>
